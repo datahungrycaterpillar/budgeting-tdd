@@ -2,4 +2,4 @@ db.sqlite3
 venv
 tests/geckodriver.log
 .idea
-.pyc
+*.pyc
